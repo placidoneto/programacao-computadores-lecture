@@ -22,10 +22,17 @@ Cada branch implementada marca um conjunto de conceitos que são aplicados em c�
 
 ## Agenda
 
-<a href="https://github.com/placidoneto/pa-bd-lecture/tree/lecture00-modelando-dados"> Aula 0. Conceitos Gerais de Algoritmos</a>
+<a href="https://github.com/placidoneto/programacao-computadores-lecture/tree/aula01-conceitosdalinguagem-lecture00"> Aula 0. Conceitos Gerais de Algoritmos</a>
 
-- ...
-
+- O que é uma linguagem de programação?
+- Linguagem Python
+- Escrevendo um Programa Python
+  - Valores e Tipos
+  - Variáveis
+  - Palavras Reservadas
+  - Expressões e declarações
+  - ...
+  
 
 <a href=""> Aula 1. Fundamentos</a>
 
