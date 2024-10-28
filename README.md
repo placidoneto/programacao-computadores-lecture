@@ -31,7 +31,7 @@ Cada branch implementada marca um conjunto de conceitos que são aplicados em c�
   - Variáveis
   - Palavras Reservadas
   - Expressões e declarações
-  - [TP1 - Trabalho Prático 1]() 
+  - [TP1 - Trabalho Prático 1](https://github.com/placidoneto/programacao-computadores-lecture/blob/aula01-conceitosdalinguagem-lecture00/lecture00/tp1.md) 
   
 
 <a href=""> Aula 1. Fundamentos</a>
