@@ -22,7 +22,7 @@ Cada branch implementada marca um conjunto de conceitos que são aplicados em c�
 
 ## Agenda
 
-<a href="https://github.com/placidoneto/programacao-computadores-lecture/tree/aula01-conceitosdalinguagem-lecture00"> Aula 0. Conceitos Gerais de Algoritmos</a>
+<a href="https://github.com/placidoneto/programacao-computadores-lecture/tree/aula01-conceitosdalinguagem-lecture00"> Aula 1. Conceitos Gerais de Algoritmos</a>
 
 - O que é uma linguagem de programação?
 - Linguagem Python
@@ -34,57 +34,17 @@ Cada branch implementada marca um conjunto de conceitos que são aplicados em c�
   - [TP1 - Trabalho Prático 1](https://github.com/placidoneto/programacao-computadores-lecture/blob/aula01-conceitosdalinguagem-lecture00/lecture00/tp1.md) 
   
 
-<a href=""> Aula 1. Fundamentos</a>
+<a href="https://github.com/placidoneto/programacao-computadores-lecture/tree/aula02-condicionais"> Aula 2. Operadores e Estruturas de Controle</a>
 
-- Tópico 1
-- Tópico 2
-- Tópico 3
+- Operadores
+- Estruturas de Controle
+  - Estrutura Condicional
 
-<a href="">Aula 2. </a>
+- [TP2 - Trabalho Prático 2]()
 
-- Tópico 1
-- Tópico 2
-- Tópico 3
-  
 <a href="">Aula 3. </a>
 
 - Tópico 1
 - Tópico 2
 - Tópico 3
-
-<a href="branch link">Aula 4. ---</a>
-
-- Tópico 1
-- Tópico 2
-- Tópico 3
-
-<a href="branch link">Aula 5. ---</a>
-
-- Tópico 1
-- Tópico 2
-- Tópico 3
-
-<a href="branch link">Aula 6. ---</a>
-
-- Tópico 1
-- Tópico 2
-- Tópico 3
-
-<a href="branch link">Aula 7. ---</a>
-
-- Tópico 1
-- Tópico 2
-- Tópico 3
-
-<a href="branch link">Aula 8. ---</a>
-
-- Tópico 1
-- Tópico 2
-- Tópico 3
-
-<a href="branch link">Aula 9. ---</a>
-
-- Tópico 1
-- Tópico 2
-- Tópico 3
-
+  
