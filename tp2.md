@@ -12,7 +12,7 @@ Praticar os conceitos de Programação em Python em aula.
 - O trabalho deve ser feito em Python.
 - Os códigos devem ser implementados em arquivos separados, com o nome `tp2-q1.py`, `tp2-q2.py`, ..., `tp2-q11.py`.
 - O prazo de entrega é até o dia 07/11/2024 até às 12:00.
-- O arquivo deve conter o nome da 2 em um arquivo .ZIP: `tp2-nomeSobrenome.zip`.
+- O arquivo .ZIP deve conter o nome do aluno como segue: `tp2-nomeSobrenome.zip`.
 - Se o envio da atividade não seguir as orientações acima, não será corrigido.
 
 ### Questões
