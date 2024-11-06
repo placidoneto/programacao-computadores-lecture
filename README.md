@@ -40,7 +40,7 @@ Cada branch implementada marca um conjunto de conceitos que são aplicados em c�
 - Estruturas de Controle
   - Estrutura Condicional
 
-- [TP2 - Trabalho Prático 2]()
+- [TP2 - Trabalho Prático 2](https://github.com/placidoneto/programacao-computadores-lecture/blob/aula02-condicionais/tp2.md)
 
 <a href="">Aula 3. </a>
 
