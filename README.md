@@ -42,9 +42,10 @@ Cada branch implementada marca um conjunto de conceitos que são aplicados em c�
 
 - [TP2 - Trabalho Prático 2](https://github.com/placidoneto/programacao-computadores-lecture/blob/aula02-condicionais/tp2.md)
 
-<a href="">Aula 3. </a>
+<a href="https://github.com/placidoneto/programacao-computadores-lecture/tree/aula03-estruturas-repeticao">Aula 3. Listas e Estruturas de Repetição</a>
 
-- Tópico 1
-- Tópico 2
-- Tópico 3
+- Listas
+- Estruturas de Repetição
+  - Estrutura de Repetição `for`
+  - Estrutura de Repetição `while`
   
