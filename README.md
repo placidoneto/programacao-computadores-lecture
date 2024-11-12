@@ -1,50 +1,128 @@
-<div  align="center">
-    <img width="400"
-        alt="BD Logo"
-        src="https://blog.geekhunter.com.br/wp-content/uploads/2022/02/linguagem-python-1024x579-1.jpg"
-      />
-    <h1> Algoritmo e Linguagem de Programação </h1>
-</div>
+# Listas e Estruturas de Repetição em Python
 
-## Objetivo
+## Objetivos
 
-Este repositório é destinado ao aprendizado dos conceitos do Algoritmo e Linguagem de Programação.
+- Entender o conceito de listas em Python
+- Entender o conceito de estruturas de repetição em Python
 
-## Metodologia
+## Listas
 
-O processo de aquisição dos conhecimentos deve ser realizado a partir do estudo de cada branch existente neste repositório.
+Listas são coleções de itens em Python. Elas são ordenadas e mutáveis. Listas são definidas por colchetes `[]` e os itens são separados por vírgulas.
 
-Cada branch implementada marca um conjunto de conceitos que são aplicados em código e que vai sendo refatorado até aplicação de todo conteúdo visto na disciplina.
+```python
+lista = [1, 2, 3, 4, 5]
+```
 
-## Pré-Requistos 
+### Acessando elementos de uma lista
 
-- Nenhum Pré-requisito é necessário.
+Os elementos de uma lista podem ser acessados através de índices. O índice de um elemento é a sua posição na lista, começando em 0.
 
-## Agenda
+```python
+lista = [1, 2, 3, 4, 5]
+print(lista[0]) # 1
+print(lista[1]) # 2
+print(lista[2]) # 3
+print(lista[3]) # 4
+print(lista[4]) # 5
+```
 
-<a href="https://github.com/placidoneto/programacao-computadores-lecture/tree/aula01-conceitosdalinguagem-lecture00"> Aula 1. Conceitos Gerais de Algoritmos</a>
+### Adicionando elementos a uma lista
 
-- O que é uma linguagem de programação?
-- Linguagem Python
-- Escrevendo um Programa Python
-  - Valores e Tipos
-  - Variáveis
-  - Palavras Reservadas
-  - Expressões e declarações
-  - [TP1 - Trabalho Prático 1](https://github.com/placidoneto/programacao-computadores-lecture/blob/aula01-conceitosdalinguagem-lecture00/lecture00/tp1.md) 
-  
+Elementos podem ser adicionados a uma lista utilizando o método `append`.
 
-<a href="https://github.com/placidoneto/programacao-computadores-lecture/tree/aula02-condicionais"> Aula 2. Operadores e Estruturas de Controle</a>
+```python
+lista = [1, 2, 3, 4, 5]
+lista.append(6)
+print(lista) # [1, 2, 3, 4, 5, 6]
+```
 
-- Operadores
-- Estruturas de Controle
-  - Estrutura Condicional
+### Removendo elementos de uma lista
 
-- [TP2 - Trabalho Prático 2](https://github.com/placidoneto/programacao-computadores-lecture/blob/aula02-condicionais/tp2.md)
+Elementos podem ser removidos de uma lista utilizando o método `remove`.
 
-<a href="">Aula 3. </a>
+```python
+lista = [1, 2, 3, 4, 5]
+lista.remove(3)
+print(lista) # [1, 2, 4, 5]
+```
 
-- Tópico 1
-- Tópico 2
-- Tópico 3
-  
+## Estruturas de Repetição
+
+Estruturas de repetição são utilizadas para executar um bloco de código várias vezes. Em Python, existem duas estruturas de repetição: `for` e `while`.
+
+### For
+
+O `for` é utilizado para iterar sobre uma sequência de elementos.
+
+```python
+
+for i in range(5):
+    print(i)
+
+# 0
+# 1
+# 2
+# 3
+# 4
+```
+
+### While
+
+O `while` é utilizado para repetir um bloco de código enquanto uma condição for verdadeira.
+
+```python
+i = 0
+while i < 5:
+    print(i)
+    i += 1
+
+# 0
+# 1
+# 2
+# 3
+# 4
+```
+
+## Repetições em Listas
+
+É possível utilizar estruturas de repetição para iterar sobre os elementos de uma lista.
+
+```python
+lista = [1, 2, 3, 4, 5]
+for elemento in lista:
+    print(elemento)
+
+# 1
+# 2
+# 3
+# 4
+# 5
+```
+
+Podemos também utilizar a função `enumerate` para obter o índice e o valor de cada elemento da lista.
+
+```python
+lista = [1, 2, 3, 4, 5]
+for indice, elemento in enumerate(lista):
+    print(f"Elemento {indice}: {elemento}")
+
+# Elemento 0: 1
+# Elemento 1: 2
+# Elemento 2: 3
+# Elemento 3: 4
+# Elemento 4: 5
+```
+
+## Exercícios
+
+1. Crie uma lista com os números de 1 a 10 e imprima cada número.
+2. Crie uma lista com os números de 1 a 10 e imprima o quadrado de cada número.
+3. Crie uma lista com os números de 1 a 10 e imprima a soma de todos os números.
+4. Crie uma lista com os números de 1 a 10 e imprima a média de todos os números.
+5. Crie uma lista com os números de 1 a 10 e imprima apenas os números pares.
+6. Crie uma lista com os números de 1 a 10 e imprima apenas os números ímpares.
+7. Crie uma lista com os números de 1 a 10 e imprima apenas os números divisíveis por 3.
+8. Crie uma lista com os números de 1 a 10 e imprima apenas os números divisíveis por 3 e por 2.
+9. Crie uma lista com os números de 1 a 10 e imprima apenas os números divisíveis por 3 ou por 2.
+10. Crie uma lista com os números de 1 a 10 e imprima apenas os números divisíveis por 3 e por 2 ao mesmo tempo.
+
