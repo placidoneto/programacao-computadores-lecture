@@ -11,7 +11,8 @@
 9. Crie uma lista com os números de 1 a 10 e imprima apenas os números divisíveis por 3 ou por 2.
 10. Crie uma lista com os números de 1 a 10 e imprima apenas os números divisíveis por 3 e por 2 ao mesmo tempo.
 
-*Questões Extras em Sala de Aula*
+**Questões Extras em Sala de Aula**
+
 11. Escreva um programa que leia um número inteiro e imprima todos os seus divisores.
 12. Escreva um programa que leia um número inteiro e informe se ele é primo ou não. OBS: Um número primo é aquele que é divisível apenas por 1 e por ele mesmo.
 
