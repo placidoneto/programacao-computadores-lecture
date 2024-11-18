@@ -48,4 +48,6 @@ Cada branch implementada marca um conjunto de conceitos que são aplicados em c�
 - Estruturas de Repetição
   - Estrutura de Repetição `for`
   - Estrutura de Repetição `while`
+
+- [Resolução Trabalho Prático 3](https://github.com/placidoneto/programacao-computadores-lecture/blob/aula03-estruturas-repeticao/aula03/resolucao.md)
   
