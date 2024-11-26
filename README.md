@@ -1,53 +1,29 @@
-<div  align="center">
-    <img width="400"
-        alt="BD Logo"
-        src="https://blog.geekhunter.com.br/wp-content/uploads/2022/02/linguagem-python-1024x579-1.jpg"
-      />
-    <h1> Algoritmo e Linguagem de Programação </h1>
-</div>
+# Trabalho Prático em Dupla
 
-## Objetivo
+As questões a seguir devem ser resolvidas em dupla. Cada dupla deve enviar a resolucao no Google Sala de Aula. As questões devem ser enviadas em um arquivo .ZIP contendo um arquivo .py para cada questão. Os arquivos devem ser nomeados de acordo com o número da questão. Por exemplo, a questão 1 deve ser resolvida em um arquivo chamado `q1.py`.
 
-Este repositório é destinado ao aprendizado dos conceitos do Algoritmo e Linguagem de Programação.
+### Questão 1: Manipulação de Listas
+Dada a lista `numeros = [2, 5, 9, 1, 5, 6]`, escreva um programa em Python que:
 
-## Metodologia
+- Adicione o número 7 ao final da lista.
 
-O processo de aquisição dos conhecimentos deve ser realizado a partir do estudo de cada branch existente neste repositório.
+- Remova o primeiro elemento da lista.
 
-Cada branch implementada marca um conjunto de conceitos que são aplicados em código e que vai sendo refatorado até aplicação de todo conteúdo visto na disciplina.
+- Imprima o maior e o menor número da lista.
 
-## Pré-Requistos 
+###  Questão 2: Estrutura Condicional if
+Escreva um programa que peça ao usuário para digitar um número e verifique se o número é positivo, negativo ou zero. Imprima uma mensagem correspondente para cada caso.
 
-- Nenhum Pré-requisito é necessário.
+### Questão 3: Laço for
 
-## Agenda
+Crie um programa que some todos os números pares de uma lista de inteiros dada. Por exemplo, para a lista `numeros = [1, 2, 3, 4, 5, 6]`, o programa deve imprimir a soma de todos os números pares.
 
-<a href="https://github.com/placidoneto/programacao-computadores-lecture/tree/aula01-conceitosdalinguagem-lecture00"> Aula 1. Conceitos Gerais de Algoritmos</a>
+### Questão 4: Listas e Estruturas de Controle
+Escreva um programa em Python que peça ao usuário para digitar 5 números e os armazene em uma lista. Em seguida, crie um novo programa que:
 
-- O que é uma linguagem de programação?
-- Linguagem Python
-- Escrevendo um Programa Python
-  - Valores e Tipos
-  - Variáveis
-  - Palavras Reservadas
-  - Expressões e declarações
-  - [TP1 - Trabalho Prático 1](https://github.com/placidoneto/programacao-computadores-lecture/blob/aula01-conceitosdalinguagem-lecture00/lecture00/tp1.md) 
-  
+- Calcule a média dos números.
 
-<a href="https://github.com/placidoneto/programacao-computadores-lecture/tree/aula02-condicionais"> Aula 2. Operadores e Estruturas de Controle</a>
+- Imprima todos os números da lista que são maiores que a média.
 
-- Operadores
-- Estruturas de Controle
-  - Estrutura Condicional
-
-- [TP2 - Trabalho Prático 2](https://github.com/placidoneto/programacao-computadores-lecture/blob/aula02-condicionais/tp2.md)
-
-<a href="https://github.com/placidoneto/programacao-computadores-lecture/tree/aula03-estruturas-repeticao">Aula 3. Listas e Estruturas de Repetição</a>
-
-- Listas
-- Estruturas de Repetição
-  - Estrutura de Repetição `for`
-  - Estrutura de Repetição `while`
-
-- [Resolução Trabalho Prático 3](https://github.com/placidoneto/programacao-computadores-lecture/blob/aula03-estruturas-repeticao/aula03/resolucao.md)
-  
+###  Questão 5: Listas e Laço for
+Dada a lista de palavras palavras = `["python", "programacao", "algoritmo", "lista", "laço"]`, escreva um programa em Python que conte quantas palavras têm mais de 6 letras. Imprima o resultado.
