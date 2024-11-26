@@ -51,6 +51,6 @@ Cada branch implementada marca um conjunto de conceitos que são aplicados em c�
 
 - [Resolução Trabalho Prático 2](https://github.com/placidoneto/programacao-computadores-lecture/blob/aula03-estruturas-repeticao/aula03/resolucao.md)
   
-- [TP2 - Trabalho Prático 3](https://github.com/placidoneto/programacao-computadores-lecture/tree/tp-lista-se-for)
+- [TP3 - Trabalho Prático 3](https://github.com/placidoneto/programacao-computadores-lecture/tree/tp-lista-se-for)
 
-  
+   
