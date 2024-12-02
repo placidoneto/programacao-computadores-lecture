@@ -53,4 +53,4 @@ Cada branch implementada marca um conjunto de conceitos que são aplicados em c�
   
 - [TP3 - Trabalho Prático 3](https://github.com/placidoneto/programacao-computadores-lecture/tree/tp-lista-se-for)
 
-   
+<a href="https://github.com/placidoneto/programacao-computadores-lecture/tree/funcoes-python">Aula 4. Funções em Python</a>  
