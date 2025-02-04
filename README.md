@@ -46,8 +46,8 @@ A avaliação será contínua e realizada de acordo com a evolução de cada gru
 
 1. **Entrega 1 - Descrição detalhada do projeto**: 20/12/2024 (sexta-feira)
 2. **Entrega 2 - Estrutura do Menu + 1 funcionalidade**: 22/01/2025 (quarta-feira)
-3. **Entrega 3 - 2 Novas funcionalidades**: 29/01/2025 (quarta-feira)
-4. **Entrega 4 - 2 Novas funcionalidades**: 11/02/2025 (quarta-feira)
+3. **Entrega 3 - 2 Novas funcionalidades**: 11/01/2025 (terça-feira)
+4. **Entrega 4 - 2 Novas funcionalidades**: 18/02/2025 (terça-feira)
 5. **Entrega Fina - Relatório + Apresentação + Sistama Completo em Python l**: 25/02/2025 (terça-feira)
 
 **Cada dupla deverá entregar um relatório contendo as informações pesquisadas com a apresentação do problema e uma proposta de solução contendo uma lista de funções (mínimo de 8 funções) que o sistema irá executar. O professor deverá aprovar a proposta apresentada.**
