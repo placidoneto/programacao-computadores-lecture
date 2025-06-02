@@ -81,7 +81,7 @@ Esta disciplina visa introduzir os conceitos fundamentais de lógica de programa
 **Módulo 1: Introdução à Lógica de Programação e Ambiente Python**
   
 
-- Conceitos Fundamentais:
+- <a href="https://github.com/placidoneto/programacao-computadores-lecture/tree/aula01-conceitosdalinguagem-lecture00"> Conteúdo 1 - Conceitos Fundamentais: </a>
   - O que é lógica de programação? 
   - Pensamento computacional.
 
